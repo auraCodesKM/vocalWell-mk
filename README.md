@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #2E8B57; font-family: Arial, sans-serif; font-weight: bold;">
-    🎙️ VocalWell - AI-Powered Voice Disorder Detection
+    🎙️ VocalWell - AI Powered Voice Disorder Detection
   </h1>
   <h3 style="color: #555; font-style: italic;">
     "Empowering Voices with AI-Driven Diagnostics"
