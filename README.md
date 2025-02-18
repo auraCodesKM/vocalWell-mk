@@ -6,10 +6,10 @@
     "Empowering Voices with AI-Driven Diagnostics"
   </h3>
 </div>
-<div style="text-align: center;">
-    <img src="assets/tw-ezgif.com-video-to-gif-converter.gif" alt="VocalWell Interface" width="600px">
-</div>
----
+<p align="center">
+  <img src="assets/Healthiswealth-ezgif.com-video-to-gif-converter.gif" alt="VocalWell Interface" width="300px" height="200px">
+</p>
+
 
 ## 🌟 What is VocalWell?
 VocalWell is an **AI-powered web tool** designed for the **early detection of voice disorders**. Using **advanced machine learning** and **audio processing**, it provides **diagnostic insights** and **graphical analysis**, making **voice disorder detection fast, efficient, and accessible.**  
@@ -31,13 +31,11 @@ VocalWell is an **AI-powered web tool** designed for the **early detection of vo
 ✔ **Detailed reports & graphical insights** for easy understanding  
 ✔ **Empowers both clinicians & individuals** to monitor voice health  
 
----
 
-<div style="text-align: center;">
-    <img src="assets/hw-ezgif.com-video-to-gif-converter.gif" alt="VocalWell Interface" width="600px">
-</div>
+<p align="center">
+  <img src="assets/hw-ezgif.com-video-to-gif-converter.gif" alt="VocalWell Interface" width="300px" height="200px">
+</p>
 
----
 
 ## 🔍 How It Works  
 1️⃣ **Voice Sample Input** - Users upload a WAV file.  
